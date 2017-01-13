@@ -1,0 +1,10 @@
+name: Mah josh
+link: https://i.ytimg.com/vi/1rbWUpNl5Ew/hqdefault.jpg
+default:
+- 
+- MY JOSH
+aliases:
+- denzel
+- josh
+regexes:
+- (josh .)+
